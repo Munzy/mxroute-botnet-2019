@@ -85,4 +85,6 @@ function reader(){
 
 }
 
+
+console.log('"' + 'IP Address' + '", "' + 'AS Number' + '", "' + 'AS Name' + '", "' + 'CIDR' + '"');
 reader();
